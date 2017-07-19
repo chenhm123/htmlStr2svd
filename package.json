@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chenhm123/htmlStr2svd/issues"
   },
-  "homepage": "https://github.com/chenhm123/htmlStr2svd#readme"
+  "homepage": "https://github.com/chenhm123/htmlStr2svd#readme",
+  "dependencies": {
+    "simple-virtual-dom": "^0.1.9"
+  }
 }
