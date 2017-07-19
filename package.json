@@ -1,0 +1,19 @@
+{
+  "name": "htmlstr2svd",
+  "version": "1.0.0",
+  "description": "将html字符串转成虚拟节点",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenhm123/htmlStr2svd.git"
+  },
+  "author": "chenhm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenhm123/htmlStr2svd/issues"
+  },
+  "homepage": "https://github.com/chenhm123/htmlStr2svd#readme"
+}
